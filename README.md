@@ -11,3 +11,6 @@ Projekt wykorzystuje:
 - WiringPi - obsługa GPIO dla multipleksacji danych z kamer
 
 Po testach wydajności zrezygnowano z większej liczby wątków oraz dzielenia obrazu.
+
+//toDo: komentarze
+
